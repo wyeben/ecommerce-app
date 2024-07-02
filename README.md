@@ -5,7 +5,8 @@ A simple e-commerce app.
 ## Clone the Repository:
 
 https://github.com/wyeben/ecommerce-app.git
-cd ecommerce_app
+
+### cd ecommerce_app
 
 ## Get the Dependencies:
 
