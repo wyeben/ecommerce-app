@@ -9,12 +9,12 @@ void main() {
       providers: [
         ChangeNotifierProvider(create: (_) => ProductProvider()),
       ],
-      child: MyApp(),
+      child: Ecommerce(),
     ),
   );
 }
 
-class MyApp extends StatelessWidget {
+class Ecommerce extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
